@@ -1,4 +1,5 @@
-![FocusLab](https://github.com/IcedWatermelonJuice/IcedWatermelonJuice/blob/main/FocusLab_Logo.png?raw=true)
+<p align="center"><img src="https://github.com/IcedWatermelonJuice/IcedWatermelonJuice/blob/main/FocusLab_Logo.png?raw=true" alt="FocusLab" width="360"></p>
+
 # LLM-MoPE_OSR (Coming soon)
 <p align="center"><strong>English</strong> · <a href="README.zh-CN.md">简体中文</a></p>
 
